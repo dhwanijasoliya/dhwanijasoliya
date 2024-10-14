@@ -56,9 +56,9 @@ I’m an enthusiastic **MSc. Data Science** student, actively working on my **th
 ## 🚀 Projects
 
 ### 1. [Stock Market Kafka Real-Time Data Engineering Project](https://github.com/yourusername/stock-market-kafka-project)  
-This project was all about building a **real-time data pipeline** for stock market data using **Apache Kafka** and several key **AWS services** like **S3**, **Athena**, and **Glue**.
+The objective of this project was to combine **Apache Kafka** and important **AWS services** like S3, Athena, Glue, and others to create a real-time data pipeline for the stock market.
 
-The focus was on managing the **entire data engineering lifecycle**—from ingesting data in real time, storing it in the cloud, processing it, and finally making it available for querying. It's a great example of handling **streaming data** in a scalable, cloud-native architecture.
+The management of the whole data engineering lifecycle—including real-time data consume, cloud storage, processing, and query availability—was the main topic of this portion. 
 
 **Technologies Used**:  
 - **Programming Language**: Python  
@@ -68,7 +68,7 @@ The focus was on managing the **entire data engineering lifecycle**—from inges
 ---
 
 ### 2. [Plant Disease Classification with CNN](https://github.com/yourusername/plant-disease-classification)  
-In this project, I built a **Convolutional Neural Network (CNN)** to classify plant diseases using the **PlantVillage Dataset**. The model achieved an accuracy of **83.3%**. 
+In order to categorize plant illnesses, I constructed a **Convolutional Neural Network (CNN)** in this experiment utilizing the Plant Dataset. The accuracy of the model was **83.3%**. 
 
 I used **data augmentation** and **image preprocessing** to improve model generalization, applying techniques like random flips and rotations. The architecture features multiple **Conv2D layers** followed by **MaxPooling**, and the final classification is done using **Dense layers** with **softmax activation**. The whole model was built using **TensorFlow** and **Keras**.
 
