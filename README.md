@@ -52,3 +52,43 @@ I’m an enthusiastic **MSc. Data Science** student, actively working on my **th
 
 ---
 
+
+## 🚀 Projects
+
+### 1. [Stock Market Kafka Real-Time Data Engineering Project](https://github.com/yourusername/stock-market-kafka-project)  
+This project was all about building a **real-time data pipeline** for stock market data using **Apache Kafka** and several key **AWS services** like **S3**, **Athena**, and **Glue**.
+
+The focus was on managing the **entire data engineering lifecycle**—from ingesting data in real time, storing it in the cloud, processing it, and finally making it available for querying. It's a great example of handling **streaming data** in a scalable, cloud-native architecture.
+
+**Technologies Used**:  
+- **Programming Language**: Python  
+- **Cloud & Data Services**: AWS (S3, Athena, Glue, EC2)  
+- **Stream Processing**: Apache Kafka
+
+---
+
+### 2. [Plant Disease Classification with CNN](https://github.com/yourusername/plant-disease-classification)  
+In this project, I built a **Convolutional Neural Network (CNN)** to classify plant diseases using the **PlantVillage Dataset**. The model achieved an accuracy of **83.3%**. 
+
+I used **data augmentation** and **image preprocessing** to improve model generalization, applying techniques like random flips and rotations. The architecture features multiple **Conv2D layers** followed by **MaxPooling**, and the final classification is done using **Dense layers** with **softmax activation**. The whole model was built using **TensorFlow** and **Keras**.
+
+**Technologies Used**:  
+- **Machine Learning Framework**: TensorFlow, Keras  
+- **Libraries**: NumPy, Matplotlib  
+- **Key Concepts**: Data augmentation, CNN architecture, image preprocessing
+
+---
+
+### 3. [PowerBI Dashboard for Business Insights](https://github.com/yourusername/powerbi-dashboard)  
+This project was about creating powerful and insightful **Power BI dashboards** for different business audiences—**Finance**, **Sales**, **Marketing**, and **C-level Executives**.
+
+I began by extracting data into **MySQL** and modeling it using a **snowflake schema**. Then, the data was imported into **Power BI**, where I performed data cleaning, modeling, and created calculated measures using **DAX** formulas. A key challenge here was optimizing the dashboard layout for different screen sizes and incorporating feedback during **User Acceptance Testing (UAT)**.
+
+The project ended with deploying the dashboards through the **Power BI Web Service** and integrating a dynamic navigation bar for ease of use.
+
+**Technologies Used**:  
+- **BI Tools**: Power BI, DAX  
+- **Database**: MySQL  
+- **Data Processing**: Excel, Power Query, M Language  
+- **Key Skills**: Data wrangling, data modeling, report optimization
+
