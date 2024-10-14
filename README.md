@@ -2,7 +2,7 @@
 
 ![Machine Learning GIF](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
-I’m an enthusiastic **MSc. Data Science** student at [Your University], actively working on my **thesis** while gaining real-world experience as a **Part-Time Data Scientist** at [Your Company Name]. I love exploring the intersection of **machine learning** and **data-driven solutions** to solve real-world problems.
+I’m an enthusiastic **MSc. Data Science** student, actively working on my **thesis** while gaining real-world experience as a **Part-Time Data Scientist** at KUGU Homes. I love exploring the intersection of **machine learning** and **data-driven solutions** to solve real-world problems.
 
 💡 **Fun Fact**: When I’m not wrangling data, you’ll find me either playing chess ♟️ or exploring nature 🌲.
 
@@ -44,7 +44,7 @@ I’m an enthusiastic **MSc. Data Science** student at [Your University], active
 ## 💼 **Experience**:
 
 ### 🎓 **MSc. Data Science Student**
-- **Thesis Topic**:  – A comprehensive study on [Your Focus Area]. Currently exploring [specific technologies and datasets].
+- **Thesis Topic**:  – A comprehensive study
 
 ### 💻 **Part-Time Data Scientist**
 - 
