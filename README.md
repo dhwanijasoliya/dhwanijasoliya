@@ -35,7 +35,6 @@ I’m an enthusiastic **MSc. Data Science** student at [Your University], active
 ---
 
 ## 🌱 **Currently Learning**:
-![Deep Learning GIF](https://media.giphy.com/media/3o7aCVXMycZS1B7T4E/giphy.gif)
 
 - Advanced **CNNs and GANs** for image classification 🖼️
 - **Data Engineering**: Pipelines, ETL, and working with large datasets on the cloud using **AWS**
