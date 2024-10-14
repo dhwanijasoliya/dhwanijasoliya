@@ -4,7 +4,7 @@
 
 I’m an enthusiastic **MSc. Data Science** student, actively working on my **thesis** while gaining real-world experience as a **Part-Time Data Scientist** at KUGU Homes. I love exploring the intersection of **machine learning** and **data-driven solutions** to solve real-world problems.
 
-💡 **Fun Fact**: When I’m not wrangling data, you’ll find me either playing chess ♟️ or exploring nature 🌲.
+💡 **Fun Fact**: When I’m not wrangling data, you’ll find me exploring nature 🌲.
 
 ---
 
