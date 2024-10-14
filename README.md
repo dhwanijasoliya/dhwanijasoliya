@@ -44,10 +44,10 @@ I’m an enthusiastic **MSc. Data Science** student at [Your University], active
 ## 💼 **Experience**:
 
 ### 🎓 **MSc. Data Science Student**
-- **Thesis Topic**: *[Your Thesis Title]* – A comprehensive study on [Your Focus Area]. Currently exploring [specific technologies and datasets].
+- **Thesis Topic**:  – A comprehensive study on [Your Focus Area]. Currently exploring [specific technologies and datasets].
 
 ### 💻 **Part-Time Data Scientist**
-- Working on [a brief description of your role, e.g., automating data pipelines, building machine learning models, analyzing business data].
+- 
 - Technologies used: `Python`, `SQL`, `Power BI`, `AWS`
 
 ---
