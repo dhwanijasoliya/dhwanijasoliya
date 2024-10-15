@@ -41,15 +41,6 @@ I’m an enthusiastic **MSc. Data Science** student, actively working on my **th
 
 ---
 
-## 💼 **Experience**:
-
-### 🎓 **MSc. Data Science Student**
-- **Thesis Topic**:  – A comprehensive study
-
-### 💻 **Part-Time Data Scientist**
-- 
-- Technologies used: `Python`, `SQL`, `Power BI`, `AWS`
-
 ---
 
 
