@@ -41,8 +41,6 @@ I’m an enthusiastic **MSc. Data Science** student, actively working on my **th
 
 ---
 
----
-
 
 ## 🚀 Projects
 
