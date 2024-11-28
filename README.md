@@ -4,7 +4,7 @@
 
 I’m an enthusiastic **MSc. Data Science** student, actively working on my **thesis** while gaining real-world experience as a **Part-Time Data Scientist** at KUGU Homes. I love exploring the intersection of **machine learning** and **data-driven solutions** to solve real-world problems.
 
-💡 **Fun Fact**: When I’m not wrangling data, you’ll find me exploring nature 🌲.
+**Fun Fact**: When I’m not wrangling data, you’ll find me exploring nature 🌲.
 
 ---
 
@@ -21,7 +21,7 @@ I’m an enthusiastic **MSc. Data Science** student, actively working on my **th
 </div>
 
 #### **Libraries/Frameworks**:
-- **Machine Learning**: `scikit-learn`, `TensorFlow`, `Keras`
+- **Machine Learning**: `scikit-learn`, `TensorFlow`, `Keras`, `Pytorch`
 - **Data Manipulation**: `pandas`, `NumPy`
 - **Data Visualization**: `Matplotlib`, `Seaborn`, `Plotly`, `Power BI`
 - **Web Scraping**: `Beautiful Soup`, `Scrapy`
