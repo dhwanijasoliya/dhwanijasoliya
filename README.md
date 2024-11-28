@@ -68,7 +68,7 @@ I used **data augmentation** and **image preprocessing** to improve model genera
 
 ---
 
-### 3. [PowerBI Dashboard for Business Insights])  
+### 3. [PowerBI Dashboard for Business Insights](https://github.com/dhwanijasoliya/PowerBI_Dashboard)  
 This project was about creating powerful and insightful **Power BI dashboards** for different business audiences—**Finance**, **Sales**, **Marketing**, and **C-level Executives**.
 
 I began by extracting data into **MySQL** and modeling it using a **snowflake schema**. Then, the data was imported into **Power BI**, where I performed data cleaning, modeling, and created calculated measures using **DAX** formulas. A key challenge here was optimizing the dashboard layout for different screen sizes and incorporating feedback during **User Acceptance Testing (UAT)**.
